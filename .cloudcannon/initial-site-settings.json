@@ -1,0 +1,6 @@
+{
+    "ssg": "static",
+    "build": {
+        "output_path": "."
+    }
+}
