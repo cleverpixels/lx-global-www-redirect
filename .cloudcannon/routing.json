@@ -3,7 +3,7 @@
       {
         "from": "/(.*)",
         "status": 301,
-        "to": "https://www.example.com/$1"
+        "to": "https://www.lxglobal.com/$1"
       }
     ]
   }
